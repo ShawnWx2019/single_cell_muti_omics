@@ -1,0 +1,381 @@
+Id,label,value,log_size,uniqueness,dispensability,queryitem,pvalue
+437,nitrile biosynthetic process,-1.854,1.924,0.912,0.135,5,0.00088
+431,calcium ion transmembrane transport,-0.678,4.676,0.939,0.629,5,0.017
+408,nitrile metabolic process,-1.456,1.94,0.95,0.086,5,0.0024
+387,S-adenosylmethionine metabolic process,-1.854,4.355,0.924,0.638,5,0.00088
+274,rhamnose biosynthetic process,-1.456,0,0.889,0.422,5,0.0024
+273,rhamnose metabolic process,-1.456,3.591,0.855,0.677,5,0.0024
+271,regulation of fatty acid metabolic process,-0.886,3.701,0.954,0.185,5,0.0098
+259,peroxisome fission,-1.009,3.73,0.938,0.418,5,0.0073
+224,nonphotochemical quenching,-1.456,2.884,0.919,0.642,5,0.0024
+353,cortical microtubule organization,-0.553,3.232,0.94,0.38,6,0.022
+325,protein refolding,-1.77,4.363,0.99,0.011,6,0.0011
+294,cortical cytoskeleton organization,-0.31,3.851,0.935,0.54,6,0.043
+293,maturation of SSU-rRNA,-1.77,4.318,0.825,0.549,6,0.0011
+69,protein peptidyl-prolyl isomerization,-0.495,5.007,0.878,0.549,6,0.027
+423,zinc ion homeostasis,-0.699,3.229,0.944,0.679,7,0.016
+391,nucleotide phosphorylation,-1.409,5.149,0.908,0.078,7,0.0027
+377,pyrimidine ribonucleoside metabolic process,-0.854,3.854,0.811,0.61,7,0.011
+301,regulation of ARF protein signal transduction,-0.854,4.048,0.948,0.644,7,0.011
+300,ARF protein signal transduction,-0.854,0.699,0.925,0.293,7,0.011
+261,protein sumoylation,-1.102,3.974,0.896,0.622,7,0.0058
+240,organic cation transport,-0.347,4.334,0.945,0.542,7,0.039
+218,regulation of photosynthesis,-0.638,3.274,0.957,0.203,7,0.019
+128,cellular zinc ion homeostasis,-1.013,3.178,0.936,0.434,7,0.0072
+81,sucrose biosynthetic process,-1.013,3.322,0.884,0.7,7,0.0072
+267,peptidyl-proline modification,-0.432,5.031,0.877,0.645,8,0.031
+94,pyrimidine nucleoside metabolic process,-1.222,4.093,0.804,0.632,8,0.0043
+258,protein processing,-1.347,4.916,0.89,0.375,9,0.0032
+223,response to ozone,-0.569,2.556,0.904,0.65,9,0.022
+211,regulation of catabolic process,-1.268,4.963,0.944,0.373,9,0.0039
+185,response to symbiont,-0.569,3.271,0.927,0.608,9,0.022
+91,isocitrate metabolic process,-3.377,3.752,0.854,0.662,9,0.00002
+370,sulfur compound catabolic process,-2.432,4.204,0.878,0.619,10,0.00021
+282,pentacyclic triterpenoid biosynthetic process,-0.824,1.041,0.894,0.585,10,0.012
+281,pentacyclic triterpenoid metabolic process,-0.824,1.176,0.913,0.334,10,0.012
+220,regulation of stomatal movement,-0.854,3.324,0.961,0.173,10,0.01
+173,nucleotide-sugar biosynthetic process,-3.481,4.886,0.775,0.631,10,0.000016
+376,nucleobase biosynthetic process,-3.284,4.913,0.774,0.635,11,0.000026
+304,regulation of transporter activity,-1.824,4.105,0.954,0.573,11,0.00093
+117,ubiquinone biosynthetic process,-2.292,4.626,0.828,0.334,11,0.00029
+229,PSII associated light-harvesting complex II catabolic process,-2.699,1.914,0.892,0.334,12,0.00011
+92,malate metabolic process,-4.444,4.118,0.854,0.667,12,0.0000016
+270,regulation of lipid metabolic process,-1.699,4.274,0.951,0.336,13,0.0013
+263,peptidyl-cysteine S-nitrosylation,-5.137,2.27,0.921,0.368,13,0.0000003
+207,pollen germination,-1.456,2.982,0.955,0.499,13,0.0024
+138,microtubule nucleation,-0.62,4.015,0.923,0.69,13,0.019
+436,organic substance metabolic process,-5.041,7.127,0.939,0.278,14,0.00000038
+383,para-aminobenzoic acid metabolic process,-2.699,2.09,0.862,0.183,14,0.00011
+289,cellular component disassembly,-1.585,4.846,0.932,0.536,14,0.0017
+243,carbon fixation,-5.041,4.071,0.963,0.035,14,0.00000038
+219,stomatal movement,-0.553,2.765,0.992,0.008,14,0.022
+191,cold acclimation,-3.42,2.963,0.912,0.674,14,0.000018
+167,nucleobase metabolic process,-4.367,5.061,0.788,0.66,14,0.0000019
+266,peptidyl-cysteine modification,-6.114,4.205,0.895,0.321,15,0.000000029
+72,karyogamy,-1.886,3.18,0.943,0.376,15,0.00078
+394,organelle fusion,-2.229,4.146,0.934,0.455,16,0.00035
+367,cellular nitrogen compound catabolic process,-0.638,5.46,0.836,0.694,16,0.019
+357,regulation of anion transport,-3.481,3.396,0.951,0.677,16,0.000016
+290,regulation of cell morphogenesis,-0.444,5.269,0.942,0.656,17,0.03
+286,second-messenger-mediated signaling,-1.268,4.297,0.881,0.479,17,0.0038
+228,heat acclimation,-1.357,2.889,0.913,0.668,18,0.0031
+221,regulation of proton transport,-1.678,3.053,0.952,0.642,18,0.0014
+166,lipoate metabolic process,-4,3.962,0.801,0.591,18,0.0000047
+111,glycerol ether metabolic process,-2.292,4.308,0.879,0.262,18,0.0003
+107,polyamine catabolic process,-4.796,3.058,0.871,0.669,18,0.00000071
+404,RNA transport,-2.959,4.665,0.935,0.652,20,0.000059
+379,acetyl-CoA catabolic process,-7.921,2.461,0.796,0.46,20,3.9E-10
+172,nucleotide-sugar metabolic process,-5.796,5.026,0.786,0.654,20,0.000000063
+171,purine ribonucleoside triphosphate catabolic process,-1.444,1.602,0.836,0.535,20,0.0025
+170,ribonucleoside triphosphate catabolic process,-1.444,2.1,0.826,0.5,20,0.0025
+169,nucleotide catabolic process,-1.444,4.729,0.751,0.673,20,0.0025
+134,nucleus organization,-1.824,4.117,0.935,0.452,20,0.00091
+98,RNA localization,-2.959,4.688,0.945,0.656,20,0.000059
+96,chromatin assembly or disassembly,-0.495,4.542,0.929,0.667,20,0.026
+74,regulation of cell growth,-0.854,4.278,0.948,0.699,20,0.011
+343,amino acid import,-3.678,3.466,0.958,0.464,23,0.0000096
+295,metallo-sulfur cluster assembly,-2.032,4.896,0.924,0.696,23,0.00056
+226,response to UV-B,-2,3.247,0.914,0.671,23,0.00063
+233,response to cyclopentenone,-0.721,1.643,0.93,0.339,24,0.015
+181,detection of biotic stimulus,-2.31,3.789,0.929,0.646,24,0.00028
+140,peroxisome organization,-1.77,4.345,0.932,0.476,25,0.0011
+119,water-soluble vitamin metabolic process,-2.959,5.5,0.849,0.49,25,0.000055
+99,translational initiation,-4.495,5.095,0.826,0.364,25,0.0000014
+420,plastid localization,-2.959,3.106,0.943,0.525,26,0.000053
+313,unsaturated fatty acid metabolic process,-5.398,3.956,0.827,0.551,26,0.00000016
+158,glutamine family amino acid metabolic process,-6.886,5.469,0.786,0.673,26,4.7E-09
+146,aging,-1.26,4.062,0.941,0.613,26,0.0039
+141,vacuole organization,-7.119,4.311,0.932,0.472,26,2.6E-09
+110,unsaturated fatty acid biosynthetic process,-5.481,3.81,0.811,0.536,26,0.00000013
+374,protein targeting to chloroplast,-5.886,3.251,0.929,0.565,27,0.000000051
+340,amino acid activation,-6.076,5.4,0.794,0.573,27,0.000000032
+100,tRNA aminoacylation for protein translation,-6.387,5.389,0.727,0.694,27,0.000000015
+395,organelle fission,-2,4.821,0.926,0.533,28,0.00063
+203,coumarin biosynthetic process,-8.387,3.318,0.876,0.68,28,1.3E-10
+350,anthocyanin accumulation in tissues in response to UV light,-3.553,1.322,0.89,0.66,29,0.000013
+349,pigment accumulation,-3.553,2.7,0.932,0.206,29,0.000013
+348,pigmentation,-3.553,3.836,1,0,29,0.000013
+230,regulation of hydrogen peroxide metabolic process,-0.745,2.713,0.96,0.189,29,0.014
+418,detection of stimulus,-2.481,5.043,0.926,0.327,31,0.00018
+190,gravitropism,-2.237,3.583,0.902,0.626,31,0.00034
+183,tropism,-1.796,3.825,0.925,0.525,31,0.001
+180,megagametogenesis,-1.167,2.935,0.936,0.52,31,0.0049
+87,lactate metabolic process,-5.149,4.007,0.843,0.693,31,0.00000029
+382,chorismate metabolic process,-5.585,4.825,0.835,0.466,32,0.0000001
+338,hydrogen peroxide catabolic process,-9.456,4.482,0.888,0.535,34,1E-11
+241,nitrate transport,-1.276,4.017,0.947,0.516,34,0.0038
+222,response to nitrate,-1.481,2.968,0.908,0.687,34,0.0022
+205,flavonoid biosynthetic process,-0.824,3.454,0.934,0.159,34,0.011
+417,protein maturation,-9.155,5.137,0.889,0.149,35,2.1E-11
+209,"systemic acquired resistance, salicylic acid mediated signaling pathway",-0.481,2.884,0.849,0.614,35,0.027
+375,ATP metabolic process,-6.155,5.519,0.964,0.047,36,0.000000027
+198,jasmonic acid biosynthetic process,-4.796,2.948,0.835,0.433,36,0.0000007
+197,jasmonic acid metabolic process,-3.481,3.231,0.848,0.455,36,0.000016
+143,small GTPase mediated signal transduction,-4.092,4.792,0.871,0.291,36,0.0000037
+426,membrane fusion,-0.377,4.441,0.933,0.486,37,0.036
+204,flavonoid metabolic process,-0.824,3.483,0.966,0.029,37,0.012
+189,response to gravity,-3.699,3.622,0.915,0.629,37,0.0000093
+108,protein targeting to vacuole,-6.432,3.975,0.921,0.688,37,0.000000014
+63,transition metal ion transport,-1.174,5.112,0.945,0.685,38,0.0048
+62,maltose metabolic process,-4.585,3.244,0.914,0.692,38,0.0000011
+298,oxylipin biosynthetic process,-5.553,3.453,0.85,0.225,39,0.00000011
+297,oxylipin metabolic process,-4.409,3.46,0.872,0.245,40,0.0000017
+257,dephosphorylation,-1.523,5.599,0.898,0.464,40,0.002
+200,salicylic acid biosynthetic process,-2.62,2.69,0.835,0.658,40,0.00013
+135,mitochondrion organization,-7.032,4.922,0.925,0.547,40,3.2E-09
+410,regulation of cellular component organization,-0.959,5.344,0.944,0.27,41,0.0084
+324,regulation of growth,-0.469,4.615,0.953,0.224,41,0.028
+242,organic acid transport,-0.721,5.349,0.944,0.646,41,0.014
+225,response to far red light,-10.076,2.595,0.921,0.621,41,2.3E-12
+210,jasmonic acid mediated signaling pathway,-0.854,2.966,0.864,0.621,41,0.01
+358,positive regulation of molecular function,-7.678,4.996,0.946,0.678,42,7.1E-10
+342,positive regulation of catalytic activity,-7.745,4.896,0.947,0.24,42,5.8E-10
+411,regulation of phosphorus metabolic process,-2.62,5.034,0.942,0.379,43,0.00013
+199,salicylic acid metabolic process,-2.921,3.08,0.851,0.592,43,0.000059
+118,vitamin metabolic process,-6.409,5.505,0.854,0.393,43,0.000000014
+67,protein deneddylation,-11.409,3.625,0.901,0.289,44,9.1E-14
+430,glycosylation,-3.292,5.201,0.967,0.043,45,0.000025
+409,regulation of transport,-5.959,5.072,0.937,0.251,45,0.000000041
+234,posttranscriptional regulation of gene expression,-0.367,5.566,0.937,0.444,45,0.037
+165,glycoprotein metabolic process,-3.42,5.144,0.861,0.473,46,0.000019
+137,microtubule-based process,-1.097,5.242,0.988,0.013,46,0.0059
+416,cell division,-0.387,5.532,0.987,0.015,47,0.034
+152,RNA splicing,-1.509,5.172,0.852,0.47,47,0.0021
+303,regulation of cellular protein metabolic process,-5.367,5.743,0.929,0.489,50,0.00000017
+251,mRNA metabolic process,-0.523,5.443,0.849,0.6,50,0.025
+80,disaccharide metabolic process,-5.721,4.516,0.895,0.654,52,0.000000073
+432,protein modification by small protein removal,-8.319,4.824,0.879,0.588,53,1.5E-10
+354,dicarboxylic acid metabolic process,-11.62,5.421,0.818,0.545,53,5.5E-14
+299,cellular response to extracellular stimulus,-0.824,5.029,0.893,0.645,53,0.012
+126,calcium ion transport,-13.959,4.735,0.949,0.595,53,2.3E-16
+175,oligosaccharide metabolic process,-5.26,4.95,0.906,0.503,54,0.00000023
+272,starch biosynthetic process,-8.638,3.661,0.861,0.651,55,7E-11
+247,chlorophyll metabolic process,-8.77,4.12,0.891,0.12,55,5E-11
+231,regulation of plant-type hypersensitive response,-1.456,2.279,0.957,0.494,55,0.0024
+414,regulation of protein metabolic process,-6.26,5.759,0.933,0.305,56,0.000000021
+196,chloroplast organization,-6.26,3.952,0.933,0.437,56,0.000000021
+341,regulation of programmed cell death,-1.284,4.911,0.948,0.642,57,0.0037
+309,regulation of localization,-8.367,5.235,0.947,0.262,57,1.3E-10
+260,histone modification,-1.796,5.015,0.88,0.446,57,0.00098
+254,glycoside biosynthetic process,-7.854,3.874,0.897,0.612,57,4.5E-10
+236,regulation of cell death,-1.137,4.943,0.948,0.243,57,0.0054
+389,heterocycle catabolic process,-5.495,5.444,0.833,0.691,58,0.00000013
+310,tetrapyrrole metabolic process,-7.886,5.318,0.869,0.252,59,4.3E-10
+292,lipid modification,-8.194,4.79,0.901,0.625,59,2.1E-10
+212,regulation of flower development,-2.481,3.495,0.957,0.688,59,0.00018
+285,glucosinolate metabolic process,-9.699,2.732,0.831,0.629,60,5.6E-12
+284,glycosinolate metabolic process,-9.699,2.732,0.861,0.629,60,5.6E-12
+255,S-glycoside metabolic process,-9.699,2.732,0.915,0.523,60,5.6E-12
+159,aspartate family amino acid metabolic process,-5.886,5.328,0.792,0.696,61,0.00000005
+76,regulation of immune system process,-1.509,4.88,0.951,0.239,61,0.0021
+248,lipid catabolic process,-7,5.057,0.854,0.668,62,3.5E-09
+86,acetyl-CoA metabolic process,-20.658,4.675,0.763,0.682,63,3.5E-23
+79,starch metabolic process,-10.009,3.76,0.89,0.635,65,2.7E-12
+268,protein myristoylation,-0.481,3.358,0.882,0.678,66,0.027
+112,steroid biosynthetic process,-11.032,4.498,0.843,0.584,66,2.3E-13
+104,N-terminal protein myristoylation,-0.481,3.358,0.881,0.276,66,0.027
+296,N-terminal protein amino acid modification,-0.538,4.219,0.897,0.322,67,0.023
+237,programmed cell death,-1.886,4.793,0.986,0.012,67,0.00083
+193,response to high light intensity,-12.076,3.09,0.916,0.658,69,1.9E-14
+403,root hair elongation,-15.658,2.683,0.91,0.5,70,4.4E-18
+245,energy derivation by oxidation of organic compounds,-17.509,5.52,0.914,0.635,70,5.7E-20
+148,steroid metabolic process,-10.854,4.745,0.875,0.619,70,3.6E-13
+401,regulation of post-embryonic development,-2.602,3.823,0.955,0.189,72,0.00013
+264,heterocycle biosynthetic process,-10.921,6.331,0.83,0.586,72,3.1E-13
+186,response to wounding,-6.495,4.412,0.92,0.483,72,0.000000012
+429,regulation of molecular function,-5.268,5.696,0.944,0.299,73,0.00000022
+393,gametophyte development,-1.456,3.73,0.931,0.596,74,0.0023
+150,cell death,-2.071,4.806,0.989,0.012,74,0.0005
+162,aromatic amino acid family metabolic process,-13.076,5.266,0.786,0.545,75,1.8E-15
+279,glyceraldehyde-3-phosphate metabolic process,-14.553,4.603,0.877,0.532,76,5.8E-17
+439,regulation of response to stress,-1.721,4.929,0.942,0.242,77,0.0012
+378,pigment biosynthetic process,-11.301,5.176,0.96,0.042,77,1.2E-13
+288,cell cycle process,-1.187,5.31,0.986,0.014,78,0.0047
+385,isopentenyl diphosphate metabolic process,-15.854,4.658,0.859,0.606,79,2.8E-18
+326,fluid transport,-24.357,3.632,0.967,0.223,79,5.9E-27
+253,glycoside metabolic process,-13.076,4.133,0.925,0.033,79,1.9E-15
+177,toxin catabolic process,-17.854,2.954,0.833,0.647,79,2.4E-20
+176,toxin metabolic process,-17.854,4.218,0.934,0.062,79,2.4E-20
+127,water transport,-24.357,3.583,0.968,0.221,79,5.9E-27
+320,response to endoplasmic reticulum stress,-8.469,4.557,0.906,0.497,80,1.1E-10
+334,hormone metabolic process,-10.638,4.459,0.902,0.533,82,6E-13
+287,developmental maturation,-10.854,4.232,0.939,0.634,82,3.4E-13
+435,plant-type cell wall organization or biogenesis,-4.602,4.127,0.983,0.01,83,0.0000011
+95,chromatin organization,-2.444,5.157,0.92,0.616,84,0.0002
+433,protein modification by small protein conjugation or removal,-7.066,5.501,0.866,0.426,85,0.000000003
+192,response to light intensity,-14.585,3.416,0.913,0.611,85,5.3E-17
+402,regulation of response to stimulus,-1.046,5.493,0.944,0.282,86,0.0066
+333,pigment metabolic process,-10.018,5.201,0.967,0.043,86,2.6E-12
+187,systemic acquired resistance,-6.569,3.493,0.915,0.649,87,9.8E-09
+90,pentose-phosphate shunt,-24.292,4.701,0.862,0.545,89,6.8E-27
+116,NADP metabolic process,-24.367,4.821,0.969,0.039,90,5.8E-27
+386,nicotinamide nucleotide metabolic process,-24,4.949,0.776,0.699,91,1.4E-26
+120,nicotinamide metabolic process,-24,1.699,0.885,0.174,91,1.4E-26
+438,proteasome core complex assembly,-37.553,2.369,0.946,0.329,92,2.8E-40
+206,alkaloid metabolic process,-24.125,3.604,0.937,0.11,94,1E-26
+352,cellular amide metabolic process,-25,6.222,0.875,0.266,95,1.3E-27
+265,peptidyl-amino acid modification,-3.469,5.815,0.856,0.55,95,0.000016
+415,chromosome organization,-1.125,5.66,0.912,0.697,96,0.0055
+425,membrane organization,-6.252,5.114,0.928,0.576,99,0.000000021
+413,regulation of multicellular organismal process,-2.432,5.125,0.948,0.254,99,0.00021
+161,serine family amino acid biosynthetic process,-27.18,4.93,0.779,0.678,99,8E-30
+142,cell cycle,-0.854,5.619,0.987,0.015,99,0.011
+213,epidermal cell differentiation,-9.456,4.016,0.927,0.694,100,1E-11
+153,epidermis development,-9.367,4.167,0.935,0.648,100,1.3E-11
+145,ectoderm development,-9.367,2.81,0.946,0.51,100,1.3E-11
+101,protein folding,-16.745,5.343,0.988,0.014,100,3.3E-19
+278,organophosphate metabolic process,-9.06,6.194,0.879,0.563,101,2.6E-11
+252,rRNA metabolic process,-19.125,5.474,0.845,0.606,103,1.3E-21
+73,RNA methylation,-34.553,5.312,0.834,0.196,103,2.9E-37
+400,positive regulation of cellular process,-2.071,5.667,0.923,0.31,108,0.00051
+336,homeostatic process,-11,5.355,0.926,0.634,108,2.6E-13
+195,plastid organization,-15.959,4.038,0.935,0.445,108,2E-18
+66,response to reactive oxygen species,-20.31,4.584,0.883,0.525,108,7.8E-23
+84,cellular aldehyde metabolic process,-21.086,5.014,0.941,0.075,109,1.2E-23
+392,Golgi vesicle transport,-22.602,4.936,0.946,0.293,111,3.6E-25
+179,RNA modification,-15.854,5.666,0.826,0.643,111,2.6E-18
+280,"photosynthesis, light reaction",-22.553,4.337,0.925,0.063,112,4E-25
+422,response to misfolded protein,-40.237,3.564,0.907,0.441,113,5.4E-43
+139,Golgi organization,-42.77,4.117,0.935,0.452,114,1.6E-45
+235,regulation of hormone levels,-15.086,4.681,0.935,0.228,115,1.6E-17
+151,isoprenoid biosynthetic process,-13.921,5.109,0.854,0.677,115,2.6E-16
+208,photorespiration,-47.276,3.391,0.958,0.052,116,4.6E-50
+381,carboxylic acid catabolic process,-19.357,5.414,0.765,0.684,117,7.2E-22
+136,cytoskeleton organization,-13.022,5.29,0.919,0.605,117,2.1E-15
+113,isoprenoid metabolic process,-13.721,5.141,0.894,0.683,118,4E-16
+406,regulation of developmental process,-2.959,5.497,0.944,0.282,120,0.000054
+337,defense response to bacterium,-21.222,4.458,0.902,0.487,120,9.1E-24
+160,serine family amino acid metabolic process,-32.959,5.193,0.798,0.512,120,1.2E-35
+398,positive regulation of biological process,-2.523,5.707,0.941,0.314,123,0.00016
+344,cellular metabolic compound salvage,-48.174,4.911,0.945,0.073,124,5.5E-51
+291,root system development,-11.745,3.838,0.93,0.608,126,4.1E-14
+356,glucan metabolic process,-21.824,4.985,0.884,0.507,128,2.2E-24
+434,cell wall organization or biogenesis,-2.721,5.486,0.987,0.014,132,0.0001
+319,ncRNA metabolic process,-21.276,5.973,0.828,0.578,135,7.9E-24
+276,aromatic compound biosynthetic process,-10.886,6.314,0.83,0.58,135,3.2E-13
+396,seed development,-10.824,3.936,0.916,0.619,137,3.7E-13
+440,regulation of anatomical structure size,-10.658,4.729,0.934,0.64,144,5.7E-13
+307,regulation of cellular component size,-10.658,4.625,0.872,0.549,144,5.7E-13
+399,negative regulation of biological process,-0.824,5.79,0.94,0.322,146,0.011
+244,photosynthesis,-30.602,4.726,0.947,0.069,148,2.8E-33
+302,methylation,-24.081,5.893,0.961,0.053,153,1.1E-26
+115,one-carbon metabolic process,-23.699,4.948,0.856,0.299,157,2.8E-26
+130,immune response,-7.292,4.956,0.925,0.32,160,1.7E-09
+75,immune system process,-7.292,5.15,1,0,160,1.7E-09
+369,sulfur compound biosynthetic process,-32.319,5.503,0.868,0.086,161,5.2E-35
+323,growth,-9.398,4.445,1,0,165,1.2E-11
+132,response to oxidative stress,-26.678,5.143,0.91,0.459,165,2.6E-29
+78,polysaccharide metabolic process,-18.886,5.449,0.883,0.617,165,2.2E-21
+256,vesicle-mediated transport,-26,5.533,0.941,0.342,166,1.3E-28
+178,response to cold,-25.155,3.971,0.9,0.662,169,9.1E-28
+125,cation transport,-16.347,5.931,0.936,0.406,172,8.5E-19
+182,response to external stimulus,-10.854,5.649,0.917,0.467,189,3.4E-13
+124,ion transport,-18.174,6.096,0.946,0.598,207,1.2E-20
+88,pyruvate metabolic process,-70.921,5.287,0.815,0.525,213,5.1E-74
+114,cellular aromatic compound metabolic process,-20.495,6.718,0.911,0.224,215,5.1E-23
+201,response to endogenous stimulus,-4.602,5.149,0.925,0.334,219,0.0000011
+154,lipid biosynthetic process,-19.252,5.823,0.852,0.269,230,9.3E-22
+312,cellular response to stress,-14.387,5.87,0.882,0.671,253,8.7E-17
+168,nucleotide metabolic process,-68.721,5.985,0.732,0.456,271,8.5E-72
+368,cellular nitrogen compound biosynthetic process,-57.658,6.53,0.824,0.619,272,1.4E-60
+105,proteolysis,-47.854,6.145,0.869,0.549,275,1.2E-50
+239,protein transport,-39.678,5.815,0.923,0.371,290,2.1E-42
+194,response to salt stress,-73.42,3.881,0.901,0.653,300,1.6E-76
+380,carboxylic acid biosynthetic process,-47.678,6.022,0.756,0.657,303,1.8E-50
+371,cellular carbohydrate catabolic process,-105.854,4.81,0.84,0.579,303,3.5E-109
+109,lipid metabolic process,-18.027,6.025,0.931,0.066,306,1.7E-20
+61,reproduction,-6.481,5.293,1,0,306,0.000000012
+131,response to osmotic stress,-74.244,4.134,0.899,0.258,312,2.2E-77
+359,cellular amine metabolic process,-66.444,5.077,0.874,0.076,316,1.6E-69
+283,secondary metabolic process,-46.553,4.918,0.969,0.039,321,2.5E-49
+428,regulation of biological quality,-27.678,5.84,0.942,0,326,2.5E-30
+174,amine metabolic process,-63.921,5.151,0.917,0.147,326,6.6E-67
+384,heterocycle metabolic process,-65.268,6.718,0.911,0.224,327,2.7E-68
+249,carbohydrate biosynthetic process,-61.921,5.461,0.86,0.619,328,6.4E-65
+217,response to metal ion,-115.886,4.457,0.896,0.513,334,2.7E-119
+89,generation of precursor metabolites and energy,-102.237,5.892,0.931,0.098,339,1.8E-105
+311,macromolecule localization,-38.319,5.933,0.949,0.391,343,4.8E-41
+275,hexose metabolic process,-128.721,5.227,0.808,0.319,352,1.8E-132
+421,cellular response to stimulus,-14.161,6.427,0.887,0.654,360,1.4E-16
+390,intracellular transport,-56.022,5.661,0.91,0.015,372,6.4E-59
+184,response to biotic stimulus,-43.215,5.261,0.923,0.417,378,5.4E-46
+419,cellular localization,-55.921,5.768,0.939,0.353,401,8.2E-59
+308,monocarboxylic acid metabolic process,-69.854,5.82,0.8,0.371,414,5.8E-73
+82,monosaccharide metabolic process,-142.056,5.352,0.813,0.551,420,5.8E-146
+347,macromolecule modification,-8.638,6.434,0.91,0.367,424,7.2E-11
+250,RNA metabolic process,-2.469,6.289,0.819,0.596,426,0.00019
+216,response to inorganic substance,-110.509,4.855,0.904,0,426,6.9E-114
+317,cellular nitrogen compound metabolic process,-90.409,6.801,0.892,0.174,440,1.3E-93
+215,response to organic substance,-28.959,5.422,0.893,0.624,473,1.2E-31
+83,alcohol metabolic process,-137.638,5.306,0.838,0.044,485,1.8E-141
+133,organelle organization,-66.292,5.996,0.913,0.017,492,2.4E-69
+373,small molecule biosynthetic process,-89.745,6.19,0.802,0.606,520,6.4E-93
+232,gene expression,-4.602,6.449,0.91,0.371,557,0.0000011
+405,regulation of biological process,-2.387,6.72,0.927,0.438,578,0.00024
+365,cellular carbohydrate metabolic process,-125.013,5.576,0.884,0.601,579,1.2E-128
+305,multicellular organismal process,-19.222,5.794,1,0,579,1E-21
+306,developmental process,-21.678,5.772,1,0,600,3.2E-24
+85,organic acid metabolic process,-116.495,6.347,0.798,0.555,616,5.4E-120
+327,cellular ketone metabolic process,-117,5.052,0.851,0.307,620,1.6E-120
+77,carbohydrate metabolic process,-109.569,6.156,0.929,0.117,624,6.1E-113
+157,macromolecule biosynthetic process,-5.721,6.428,0.859,0.579,625,0.000000075
+123,transport,-56.027,6.638,0.936,0.553,671,6.3E-59
+188,response to abiotic stimulus,-107.824,5.163,0.925,0.314,679,3.7E-111
+362,cellular catabolic process,-151.553,6.015,0.861,0,684,1.6E-155
+155,catabolic process,-152.745,6.167,0.957,0.075,701,8.5E-157
+412,localization,-57.071,6.657,1,0,705,5.3E-60
+427,biological regulation,-12.071,6.752,1,0,774,1.9E-14
+366,cellular protein metabolic process,-54.959,6.566,0.838,0.439,815,7.4E-58
+129,response to stress,-90.347,6.061,0.91,0.537,837,1.6E-93
+277,protein metabolic process,-61.377,6.68,0.859,0.292,890,2.3E-64
+122,nitrogen compound metabolic process,-60.409,7.039,0.942,0.24,940,2.2E-63
+372,small molecule metabolic process,-227.745,6.581,0.951,0.07,1133,1.7E-232
+407,response to stimulus,-116.959,6.52,1,0,1181,1.8E-120
+364,cellular macromolecule metabolic process,-59.301,6.79,0.88,0.469,1261,2.9E-62
+363,cellular biosynthetic process,-90.886,6.74,0.855,0.42,1272,4.2E-94
+156,biosynthetic process,-97.745,6.771,0.948,0.168,1317,5.7E-101
+345,macromolecule metabolic process,-65.796,6.92,0.923,0.201,1351,7.6E-69
+361,primary metabolic process,-126.77,7.081,0.94,0.257,1783,1.9E-130
+360,cellular metabolic process,-154.387,7.095,0.934,0.139,1831,1.2E-158
+147,metabolic process,-152.886,7.18,1,0,2022,4.9E-157
+214,cellular process,-169.469,7.275,1,0,2125,6.5E-174
+424,nucleobase-containing small molecule metabolic process,-73.495,6.089,0.777,0.58,0,1
+397,shoot system development,-2.523,4.219,0.926,0.654,0,1
+388,response to arsenic-containing substance,-0.337,3.695,0.92,0.45,0,1
+355,protein-containing complex subunit organization,-55.244,5.605,0.92,0.665,0,1
+351,protein acylation,-0.337,4.694,0.887,0.354,0,1
+346,regulation of protein-containing complex disassembly,-1.301,4.712,0.946,0.229,0,1
+339,plastid transcription,-0.409,2.825,0.872,0.439,0,1
+335,pteridine-containing compound metabolic process,-2.036,5.109,0.874,0.24,0,1
+332,ethanolamine-containing compound metabolic process,-0.432,3.03,0.856,0.666,0,1
+331,indole-containing compound biosynthetic process,-4.237,4.707,0.837,0.22,0,1
+330,indole-containing compound metabolic process,-4.092,4.888,0.878,0.228,0,1
+329,response to chemical,-93.131,5.932,0.912,0.406,0,1
+328,cellular modified amino acid catabolic process,-6.77,4.39,0.864,0.524,0,1
+322,intracellular signal transduction,-3.31,5.968,0.837,0.544,0,1
+321,regulation of protein dephosphorylation,-3.745,4.15,0.945,0.651,0,1
+318,nucleobase-containing compound biosynthetic process,-3.481,6.188,0.795,0.542,0,1
+316,cellular protein-containing complex assembly,-52.854,5.448,0.911,0.634,0,1
+315,protein localization to nucleus,-7.201,4.426,0.921,0.674,0,1
+314,nucleobase-containing small molecule biosynthetic process,-3.481,4.918,0.772,0.636,0,1
+269,ether metabolic process,-2.292,4.323,0.879,0.263,0,1
+262,protein nitrosylation,-5.137,2.307,0.922,0.236,0,1
+246,"energy coupled proton transmembrane transport, against electrochemical gradient",-4.921,3.907,0.947,0.495,0,1
+238,response to organic cyclic compound,-0.721,4.577,0.9,0.585,0,1
+227,animal organ senescence,-0.387,1.623,0.946,0.43,0,1
+202,response to sucrose,-20,3.321,0.902,0.653,0,1
+164,branched-chain amino acid biosynthetic process,-3.602,5.014,0.784,0.693,0,1
+163,branched-chain amino acid metabolic process,-5.456,5.056,0.809,0.52,0,1
+149,protein alkylation,-2.678,5.018,0.88,0.447,0,1
+144,multicellular organism development,-20.149,5.576,0.912,0,0,1
+121,sulfur compound metabolic process,-35.602,5.778,0.933,0.094,0,1
+106,cellular modified amino acid metabolic process,-11.252,5.455,0.902,0.16,0,1
+103,protein glycosylation,-3.292,5.096,0.816,0.455,0,1
+102,protein dephosphorylation,-2.194,5.206,0.846,0.467,0,1
+97,"DNA-templated transcription, elongation",-7.886,4.312,0.839,0.391,0,1
+93,nucleobase-containing compound metabolic process,-26.367,6.656,0.825,0.491,0,1
+71,endonucleolytic cleavage involved in rRNA processing,-1.824,3.561,0.846,0.364,0,1
+70,cleavage involved in rRNA processing,-1.699,4.021,0.834,0.589,0,1
+68,"mRNA splicing, via spliceosome",-1.602,5.017,0.855,0.588,0,1
+65,MAPK cascade,-0.824,4.335,0.88,0.482,0,1
+64,mitotic M phase,-0.745,6.301,1,0,0,1
